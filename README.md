@@ -25,7 +25,8 @@ source .venv/bin/activate
 2. Instalacija:
 pip install -r requirements.txt
 
-3. Funkcionalnosti:
+--- 
+## Funkcionalnosti:
 Trening i evaluacija modela za segmentaciju (UNet, FPN, DeepLabV3…)
 Izračun metrika: IoU i Dice score
 Vizualizacija: slike, ground truth maske, predikcije, overlay i heatmap
