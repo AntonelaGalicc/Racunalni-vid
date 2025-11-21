@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 --- 
 ## Funkcionalnosti:
-Trening i evaluacija modela za segmentaciju (UNet, FPN, DeepLabV3…)
-Izračun metrika: IoU i Dice score
-Vizualizacija: slike, ground truth maske, predikcije, overlay i heatmap
+1. Trening i evaluacija modela za segmentaciju (UNet, FPN, DeepLabV3…)
+2. Izračun metrika: IoU i Dice score
+3. Vizualizacija: slike, ground truth maske, predikcije, overlay i heatmap
 
